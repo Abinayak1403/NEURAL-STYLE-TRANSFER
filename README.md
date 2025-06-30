@@ -77,7 +77,7 @@ You can use this script in either `.py` or `.ipynb` format.
 
 ## 📸 Output Preview
 
-![Stylized Output](figures.jpg)
+![Image](https://github.com/user-attachments/assets/b8f98293-3008-40d0-9a07-368276968d27)
 
 ---
 
